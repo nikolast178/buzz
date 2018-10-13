@@ -1,11 +1,11 @@
 {
-  "discord-token": "api-token",
+  "discord-token": "MTE0NjY0MTA4NDk3ODI5ODg4.DqNgqA.MbdznyjcjDiWOvAn_mIaDnSZRPI",
   "api-ai-token": "api-token",
-  "admin-role": "buzz admin",
+  "admin-role": "web-admin",
 
-  "game-deal-channel": "deals",
-  "game-trailer-channel": "trailers",
-  "release-channel": "testing",
+  "game-deal-channel": "general",
+  "game-trailer-channel": "spam",
+  "release-channel": "general",
 
   "group_roles": [
     "World of Warcraft: The Burning Crusade",
